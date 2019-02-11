@@ -1,0 +1,2 @@
+# Divisible_With_3_And_Last_Digit_Is_Not_3
+C Program
